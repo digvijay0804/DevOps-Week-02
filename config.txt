@@ -1,0 +1,5 @@
+PROJECT_NAME=DevOps-Week-02
+ENVIRONMENT=development
+VERSION=1.0.0
+PLATFORM=GitHub
+PURPOSE=Git and GitHub Collaboration
