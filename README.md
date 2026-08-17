@@ -21,3 +21,7 @@ This project is created as part of DevOps Internship Week 02.
 - app.js
 - config.txt
 # DevOps-Week-02
+
+## Documentation Update
+
+This branch demonstrates documentation changes using Git branches.
